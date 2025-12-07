@@ -27,7 +27,7 @@
     "qqrz997"
   ], 
   "desc_en": "Stops the game from disabling your precious environment and colour scheme overrides.", 
-  "editpath": "src/server/mod_db/pc/KeepMyOverridesPls.json", 
+  "editpath": "pc/KeepMyOverridesPls.json", 
   "name_zh": null, 
   "beatmods_id": 317
 }

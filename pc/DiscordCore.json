@@ -27,7 +27,7 @@
     "Double Colon"
   ], 
   "desc_en": "A utility/library for easily doing Discord management for mods and handling priority between rich presence systems.", 
-  "editpath": "src/server/mod_db/pc/DiscordCore.json", 
+  "editpath": "pc/DiscordCore.json", 
   "name_zh": null, 
   "beatmods_id": 157
 }

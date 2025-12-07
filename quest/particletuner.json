@@ -15,6 +15,6 @@
     "KodenameKRAK"
   ], 
   "desc_en": "Lets you tweak individual particle settings! And has rainbow particles!", 
-  "editpath": "src/server/mod_db/quest/particletuner.json", 
+  "editpath": "quest/particletuner.json", 
   "name_zh": null
 }

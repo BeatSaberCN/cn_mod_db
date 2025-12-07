@@ -15,6 +15,6 @@
     "Tatenshi"
   ], 
   "desc_en": "Removes pitch compensation to make songs go nightcore on different speed", 
-  "editpath": "src/server/mod_db/quest/BSNightcoreQuest.json", 
+  "editpath": "quest/BSNightcoreQuest.json", 
   "name_zh": null
 }

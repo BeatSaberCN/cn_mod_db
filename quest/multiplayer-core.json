@@ -18,6 +18,6 @@
     "EnderdracheLP, cubic, RedBrumbler, Goobie, LookAtHippo, EnderdracheLP, cubic"
   ], 
   "desc_en": "Adds custom songs to Beat Saber Multiplayer.", 
-  "editpath": "src/server/mod_db/quest/multiplayer-core.json", 
+  "editpath": "quest/multiplayer-core.json", 
   "name_zh": null
 }

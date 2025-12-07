@@ -24,7 +24,7 @@
     "Meivyn"
   ], 
   "desc_en": "Allows you to change different in-game sounds like hit sounds, menu music, click sounds, etc.", 
-  "editpath": "src/server/mod_db/pc/SoundReplacer.json", 
+  "editpath": "pc/SoundReplacer.json", 
   "name_zh": null, 
   "beatmods_id": 249
 }

@@ -14,6 +14,6 @@
     "laynia"
   ], 
   "desc_en": "Adds a visualizer to the menu", 
-  "editpath": "src/server/mod_db/quest/menuvisualizers.json", 
+  "editpath": "quest/menuvisualizers.json", 
   "name_zh": null
 }

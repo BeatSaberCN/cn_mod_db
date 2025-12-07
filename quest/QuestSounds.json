@@ -18,6 +18,6 @@
     "Rugtveit, EnderdracheLP"
   ], 
   "desc_en": "Allows users to change their sfx sounds and in-game music easily!", 
-  "editpath": "src/server/mod_db/quest/QuestSounds.json", 
+  "editpath": "quest/QuestSounds.json", 
   "name_zh": null
 }

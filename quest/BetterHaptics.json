@@ -16,6 +16,6 @@
     "Crunkle"
   ], 
   "desc_en": "Reverts haptic feedback changes without breaking arc and chain notes.", 
-  "editpath": "src/server/mod_db/quest/BetterHaptics.json", 
+  "editpath": "quest/BetterHaptics.json", 
   "name_zh": null
 }

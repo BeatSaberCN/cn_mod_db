@@ -26,7 +26,7 @@
     "Steffan Donal"
   ], 
   "desc_en": "Adds a \"Play Count\" sort for BetterSongList!", 
-  "editpath": "src/server/mod_db/pc/BetterSongList PlayCount Sort.json", 
+  "editpath": "pc/BetterSongList PlayCount Sort.json", 
   "name_zh": null, 
   "beatmods_id": 336
 }

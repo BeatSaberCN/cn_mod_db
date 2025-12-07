@@ -15,6 +15,6 @@
     "Metalit"
   ], 
   "desc_en": "Overloads your keyboard!", 
-  "editpath": "src/server/mod_db/quest/morebuttons.json", 
+  "editpath": "quest/morebuttons.json", 
   "name_zh": null
 }

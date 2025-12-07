@@ -43,7 +43,7 @@
     "Meivyn"
   ], 
   "desc_en": "A mod loader for Beat Saber. Provides a number of useful tools, now including an auto-updater!", 
-  "editpath": "src/server/mod_db/pc/BSIPA.json", 
+  "editpath": "pc/BSIPA.json", 
   "name_zh": null, 
   "beatmods_id": 1
 }

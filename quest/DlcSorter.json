@@ -16,6 +16,6 @@
     "DanTheMan827"
   ], 
   "desc_en": "Sorts the DLC packs alphabetically.", 
-  "editpath": "src/server/mod_db/quest/DlcSorter.json", 
+  "editpath": "quest/DlcSorter.json", 
   "name_zh": null
 }

@@ -15,6 +15,6 @@
     "Metalit"
   ], 
   "desc_en": "Speed up or remove boring transitions in the game", 
-  "editpath": "src/server/mod_db/quest/transitions.json", 
+  "editpath": "quest/transitions.json", 
   "name_zh": null
 }

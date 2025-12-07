@@ -27,7 +27,7 @@
     "Loloppe"
   ], 
   "desc_en": "Add a guide to each arrow note based on the direction of the note.", 
-  "editpath": "src/server/mod_db/pc/NoteCutGuide.json", 
+  "editpath": "pc/NoteCutGuide.json", 
   "name_zh": null, 
   "beatmods_id": 324
 }

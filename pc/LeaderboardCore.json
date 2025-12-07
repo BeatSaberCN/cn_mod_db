@@ -27,7 +27,7 @@
     "Viktor Radulov"
   ], 
   "desc_en": "A utility for custom leaderboards that rely on ScoreSaber.", 
-  "editpath": "src/server/mod_db/pc/LeaderboardCore.json", 
+  "editpath": "pc/LeaderboardCore.json", 
   "name_zh": null, 
   "beatmods_id": 243
 }

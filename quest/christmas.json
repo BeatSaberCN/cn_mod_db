@@ -14,6 +14,6 @@
     "Furzz, laynia"
   ], 
   "desc_en": "Turn your Beat Saber into a christmas wonderland!", 
-  "editpath": "src/server/mod_db/quest/christmas.json", 
+  "editpath": "quest/christmas.json", 
   "name_zh": null
 }

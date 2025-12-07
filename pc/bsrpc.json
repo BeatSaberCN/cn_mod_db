@@ -25,7 +25,7 @@
     "Double Colon"
   ], 
   "desc_en": "Discord Rich Presence integration for Beat Saber", 
-  "editpath": "src/server/mod_db/pc/bsrpc.json", 
+  "editpath": "pc/bsrpc.json", 
   "name_zh": null, 
   "beatmods_id": 300
 }

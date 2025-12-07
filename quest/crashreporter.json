@@ -15,6 +15,6 @@
     "darknight1050"
   ], 
   "desc_en": "Automatically upload crashes.", 
-  "editpath": "src/server/mod_db/quest/crashreporter.json", 
+  "editpath": "quest/crashreporter.json", 
   "name_zh": null
 }

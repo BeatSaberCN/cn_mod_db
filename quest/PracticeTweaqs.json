@@ -15,6 +15,6 @@
     "NSGolova"
   ], 
   "desc_en": "Various improvements to the practice gamemode", 
-  "editpath": "src/server/mod_db/quest/PracticeTweaqs.json", 
+  "editpath": "quest/PracticeTweaqs.json", 
   "name_zh": null
 }

@@ -15,6 +15,6 @@
     "Metalit, Fernthedev, Henwill8"
   ], 
   "desc_en": "Record videos on your quest!", 
-  "editpath": "src/server/mod_db/quest/hollywood.json", 
+  "editpath": "quest/hollywood.json", 
   "name_zh": null
 }

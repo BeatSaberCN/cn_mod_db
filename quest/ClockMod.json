@@ -18,6 +18,6 @@
     "BoopetyDoopety, EnderdracheLP"
   ], 
   "desc_en": "Displays the time in game. Alternatively also the Battery Percentage", 
-  "editpath": "src/server/mod_db/quest/ClockMod.json", 
+  "editpath": "quest/ClockMod.json", 
   "name_zh": null
 }

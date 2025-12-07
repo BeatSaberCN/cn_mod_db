@@ -15,6 +15,6 @@
     "Tatenshi"
   ], 
   "desc_en": "Adds a history tab that displays the most recently played maps", 
-  "editpath": "src/server/mod_db/quest/RecentlyPlayed.json", 
+  "editpath": "quest/RecentlyPlayed.json", 
   "name_zh": null
 }

@@ -14,6 +14,6 @@
     "laynia_x"
   ], 
   "desc_en": "Shows your Twitch Chat Ingame", 
-  "editpath": "src/server/mod_db/quest/chatui.json", 
+  "editpath": "quest/chatui.json", 
   "name_zh": null
 }

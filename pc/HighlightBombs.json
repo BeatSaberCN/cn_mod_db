@@ -29,7 +29,7 @@
     "Meivyn"
   ], 
   "desc_en": "Adds a slight outline to bombs to make them more visible in the dark.", 
-  "editpath": "src/server/mod_db/pc/HighlightBombs.json", 
+  "editpath": "pc/HighlightBombs.json", 
   "name_zh": null, 
   "beatmods_id": 263
 }

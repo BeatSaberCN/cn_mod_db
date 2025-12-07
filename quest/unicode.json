@@ -15,6 +15,6 @@
     "Metalit"
   ], 
   "desc_en": "Finally, 𒈙", 
-  "editpath": "src/server/mod_db/quest/unicode.json", 
+  "editpath": "quest/unicode.json", 
   "name_zh": null
 }

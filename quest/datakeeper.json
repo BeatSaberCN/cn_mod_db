@@ -15,6 +15,6 @@
     "Metalit"
   ], 
   "desc_en": "Preserves your player data (scores, controller offset, etc) between updates or any other time it might be lost", 
-  "editpath": "src/server/mod_db/quest/datakeeper.json", 
+  "editpath": "quest/datakeeper.json", 
   "name_zh": null
 }

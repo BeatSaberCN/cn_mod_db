@@ -14,6 +14,6 @@
     "FutureMapper"
   ], 
   "desc_en": "Shows the direction of the last blocks and the angle of your sabers before you paused", 
-  "editpath": "src/server/mod_db/quest/iforgor.json", 
+  "editpath": "quest/iforgor.json", 
   "name_zh": null
 }

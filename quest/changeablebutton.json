@@ -14,6 +14,6 @@
     "Anta"
   ], 
   "desc_en": "Changes the text of the button", 
-  "editpath": "src/server/mod_db/quest/changeablebutton.json", 
+  "editpath": "quest/changeablebutton.json", 
   "name_zh": null
 }

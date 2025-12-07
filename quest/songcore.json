@@ -17,6 +17,6 @@
     "Raine & RedBrumbler"
   ], 
   "desc_en": "Adds songloading, map requirement handling and related utilities to the game.", 
-  "editpath": "src/server/mod_db/quest/songcore.json", 
+  "editpath": "quest/songcore.json", 
   "name_zh": null
 }

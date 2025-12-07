@@ -14,6 +14,6 @@
     "ComputerElite"
   ], 
   "desc_en": "Play in 3rd Person!", 
-  "editpath": "src/server/mod_db/quest/Play3rdPer.json", 
+  "editpath": "quest/Play3rdPer.json", 
   "name_zh": null
 }

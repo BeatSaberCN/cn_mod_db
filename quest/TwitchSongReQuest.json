@@ -14,6 +14,6 @@
     "jxnxsdev"
   ], 
   "desc_en": "Let your viewers suggest maps", 
-  "editpath": "src/server/mod_db/quest/TwitchSongReQuest.json", 
+  "editpath": "quest/TwitchSongReQuest.json", 
   "name_zh": null
 }

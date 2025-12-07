@@ -14,6 +14,6 @@
     "kodenamekrak"
   ], 
   "desc_en": "Adds various events for mods to subscribe to", 
-  "editpath": "src/server/mod_db/quest/bs-events.json", 
+  "editpath": "quest/bs-events.json", 
   "name_zh": null
 }

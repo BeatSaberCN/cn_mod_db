@@ -16,6 +16,6 @@
     "HardCPP"
   ], 
   "desc_en": "Feel good!", 
-  "editpath": "src/server/mod_db/quest/qbeatsaberplus-gametweaker.json", 
+  "editpath": "quest/qbeatsaberplus-gametweaker.json", 
   "name_zh": null
 }

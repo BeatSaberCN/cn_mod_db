@@ -15,6 +15,6 @@
     "Polly51104"
   ], 
   "desc_en": "Skip the intro and outro of maps", 
-  "editpath": "src/server/mod_db/quest/IntroSkip.json", 
+  "editpath": "quest/IntroSkip.json", 
   "name_zh": null
 }
