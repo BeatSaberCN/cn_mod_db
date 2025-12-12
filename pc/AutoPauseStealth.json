@@ -25,5 +25,6 @@
   "desc_en": "Automatically and stealthily pause your game at the start of every song waiting for potential lag spikes to end.", 
   "editpath": "pc/AutoPauseStealth.json", 
   "name_zh": null, 
-  "beatmods_id": 142
+  "beatmods_id": 142, 
+  "game_to_mod_version": {}
 }

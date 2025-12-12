@@ -3,7 +3,11 @@
   "modPage": null, 
   "name": "CustomJSONData", 
   "game_ver": [
-    "1.37.0_9064817954"
+    "1.28.0_4124311467", 
+    "1.37.0_9064817954", 
+    "1.40.4_5283", 
+    "1.40.6_6407", 
+    "1.40.7_7060"
   ], 
   "desc_zh": null, 
   "extern_links": [
@@ -15,5 +19,12 @@
   ], 
   "desc_en": "Funny maps go brrr", 
   "editpath": "quest/custom-json-data.json", 
-  "name_zh": null
+  "name_zh": null, 
+  "game_to_mod_version": {
+    "1.40.7_7060": "0.24.3", 
+    "1.40.6_6407": "0.24.2", 
+    "1.40.4_5283": "0.24.1", 
+    "1.37.0_9064817954": "0.22.0", 
+    "1.28.0_4124311467": "0.19.4"
+  }
 }

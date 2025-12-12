@@ -3,11 +3,15 @@
   "modPage": null, 
   "name": "BeatSaverVoting", 
   "game_ver": [
+    "1.35.0_8016709773", 
     "1.37.0_9064817954"
   ], 
   "desc_zh": null, 
   "extern_links": [
-    "https://github.com/RedBrumbler/BeatSaverVoting.Quest/"
+    "https://github.com/RedBrumbler/BeatSaverVoting.Quest/", 
+    "https://ko-fi.com/redbrumbler", 
+    "https://patreon.com/Qosmetics", 
+    "https://www.paypal.me/redbrumblerofficial"
   ], 
   "iscore": false, 
   "authors": [
@@ -15,5 +19,9 @@
   ], 
   "desc_en": "Quest mod to allow users to vote on beatsaver", 
   "editpath": "quest/beatsavervoting.json", 
-  "name_zh": null
+  "name_zh": null, 
+  "game_to_mod_version": {
+    "1.37.0_9064817954": "0.1.2", 
+    "1.35.0_8016709773": "0.1.2"
+  }
 }

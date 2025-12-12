@@ -1,0 +1,22 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "Adblock", 
+  "game_ver": [
+    "1.27.0_3631150051"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [
+    "https://github.com/NotHiiragi/Adblock/"
+  ], 
+  "iscore": false, 
+  "authors": [
+    "Waffle"
+  ], 
+  "name_zh": null, 
+  "desc_en": "???", 
+  "editpath": "quest/adblock.json", 
+  "game_to_mod_version": {
+    "1.27.0_3631150051": "0.1.0"
+  }
+}

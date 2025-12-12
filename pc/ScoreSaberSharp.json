@@ -77,5 +77,6 @@
   "desc_en": "Official C# Library to interact with the ScoreSaber API\n\nThis mod was imported from BeatMods, and was originally uploaded by Umbranox at 2019-12-21T23:28:16.462Z.", 
   "editpath": "pc/ScoreSaberSharp.json", 
   "name_zh": null, 
-  "beatmods_id": 102
+  "beatmods_id": 102, 
+  "game_to_mod_version": {}
 }

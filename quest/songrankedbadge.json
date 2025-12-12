@@ -1,0 +1,22 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "SongRankedBadge", 
+  "game_ver": [
+    "1.28.0_4124311467"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [
+    "https://github.com/kodenamekrak/SongRankedBadge/"
+  ], 
+  "iscore": false, 
+  "authors": [
+    "qe201020335, KodenameKRAK"
+  ], 
+  "name_zh": null, 
+  "desc_en": null, 
+  "editpath": "quest/songrankedbadge.json", 
+  "game_to_mod_version": {
+    "1.28.0_4124311467": "1.0.1"
+  }
+}

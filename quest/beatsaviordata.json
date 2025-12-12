@@ -1,0 +1,22 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "BeatSaviorData", 
+  "game_ver": [
+    "1.27.0_3631150051"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [
+    "https://github.com/Metalit/QuestBeatSaviourData/"
+  ], 
+  "iscore": false, 
+  "authors": [
+    "Metalit"
+  ], 
+  "name_zh": null, 
+  "desc_en": "Gives a detailed overview of your performance when finishing a level!", 
+  "editpath": "quest/beatsaviordata.json", 
+  "game_to_mod_version": {
+    "1.27.0_3631150051": "2.0.2"
+  }
+}

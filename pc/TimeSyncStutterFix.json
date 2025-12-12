@@ -30,5 +30,6 @@
   "desc_en": "Fix note/bomb/wall stuttering caused by AudioTimeSyncController.", 
   "editpath": "pc/TimeSyncStutterFix.json", 
   "name_zh": null, 
-  "beatmods_id": 330
+  "beatmods_id": 330, 
+  "game_to_mod_version": {}
 }

@@ -3,7 +3,10 @@
   "modPage": null, 
   "name": "Intro Skip", 
   "game_ver": [
+    "1.27.0_3631150051", 
+    "1.28.0_4124311467", 
     "1.37.0_9064817954", 
+    "1.40.7_7060", 
     "1.40.8_7379"
   ], 
   "desc_zh": null, 
@@ -16,5 +19,12 @@
   ], 
   "desc_en": "Skip the intro and outro of maps", 
   "editpath": "quest/IntroSkip.json", 
-  "name_zh": null
+  "name_zh": null, 
+  "game_to_mod_version": {
+    "1.40.8_7379": "1.2.2", 
+    "1.40.7_7060": "1.2.1", 
+    "1.37.0_9064817954": "1.2.0", 
+    "1.28.0_4124311467": "1.1.0", 
+    "1.27.0_3631150051": "1.0.2"
+  }
 }

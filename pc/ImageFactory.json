@@ -25,5 +25,6 @@
   "desc_en": "Place images and gifs in your game and customize how they appear!", 
   "editpath": "pc/ImageFactory.json", 
   "name_zh": null, 
-  "beatmods_id": 202
+  "beatmods_id": 202, 
+  "game_to_mod_version": {}
 }

@@ -27,5 +27,6 @@
   "desc_en": "Brings up the pause menu when loading into a map", 
   "editpath": "pc/WaitHoldUp.json", 
   "name_zh": null, 
-  "beatmods_id": 386
+  "beatmods_id": 386, 
+  "game_to_mod_version": {}
 }

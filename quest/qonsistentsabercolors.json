@@ -3,7 +3,10 @@
   "modPage": null, 
   "name": "QonsistentSaberColors", 
   "game_ver": [
-    "1.37.0_9064817954"
+    "1.27.0_3631150051", 
+    "1.28.0_4124311467", 
+    "1.37.0_9064817954", 
+    "1.40.4_5283"
   ], 
   "desc_zh": null, 
   "extern_links": [
@@ -15,5 +18,11 @@
   ], 
   "desc_en": "Menu saber colors reflect in game saber colors.", 
   "editpath": "quest/qonsistentsabercolors.json", 
-  "name_zh": null
+  "name_zh": null, 
+  "game_to_mod_version": {
+    "1.40.4_5283": "0.3.0", 
+    "1.37.0_9064817954": "0.2.3", 
+    "1.28.0_4124311467": "0.1.1", 
+    "1.27.0_3631150051": "0.1.0"
+  }
 }

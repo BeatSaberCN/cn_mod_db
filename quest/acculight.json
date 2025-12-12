@@ -1,0 +1,22 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "Acculight", 
+  "game_ver": [
+    "1.27.0_3631150051"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [
+    "https://github.com/oli-ctrl/acculight/"
+  ], 
+  "iscore": false, 
+  "authors": [
+    "Oli"
+  ], 
+  "name_zh": null, 
+  "desc_en": "changes the lighting on the result screen depending on the accuracy gained in the song", 
+  "editpath": "quest/acculight.json", 
+  "game_to_mod_version": {
+    "1.27.0_3631150051": "0.1.3"
+  }
+}

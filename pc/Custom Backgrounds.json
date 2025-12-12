@@ -25,5 +25,6 @@
   "desc_en": "Allows you to add equirectangular images as backgrounds", 
   "editpath": "pc/Custom Backgrounds.json", 
   "name_zh": null, 
-  "beatmods_id": 322
+  "beatmods_id": 322, 
+  "game_to_mod_version": {}
 }

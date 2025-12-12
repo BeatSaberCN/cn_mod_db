@@ -3,17 +3,26 @@
   "modPage": null, 
   "name": "ChatUI", 
   "game_ver": [
+    "1.27.0_3631150051", 
+    "1.28.0_4124311467", 
     "1.37.0_9064817954"
   ], 
   "desc_zh": null, 
   "extern_links": [
+    "https://github.com/darknight1050/ChatUI/", 
     "https://github.com/vcmikuu/U-ChatUI/"
   ], 
   "iscore": false, 
   "authors": [
+    "darknight1050", 
     "laynia_x"
   ], 
   "desc_en": "Shows your Twitch Chat Ingame", 
   "editpath": "quest/chatui.json", 
-  "name_zh": null
+  "name_zh": null, 
+  "game_to_mod_version": {
+    "1.37.0_9064817954": "0.1.0", 
+    "1.28.0_4124311467": "0.2.12", 
+    "1.27.0_3631150051": "0.2.11"
+  }
 }

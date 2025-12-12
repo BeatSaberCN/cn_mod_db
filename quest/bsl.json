@@ -15,5 +15,8 @@
   ], 
   "desc_en": "Improvement upon SongBrowser with similiar functionality", 
   "editpath": "quest/bsl.json", 
-  "name_zh": null
+  "name_zh": null, 
+  "game_to_mod_version": {
+    "1.40.8_7379": "1.0.2"
+  }
 }

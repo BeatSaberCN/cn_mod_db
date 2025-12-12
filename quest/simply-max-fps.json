@@ -1,0 +1,22 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "SimplyMaxFPS", 
+  "game_ver": [
+    "1.28.0_4124311467"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [
+    "https://github.com/pikipirs/simply-max-fps/"
+  ], 
+  "iscore": false, 
+  "authors": [
+    "pikipirs"
+  ], 
+  "name_zh": null, 
+  "desc_en": "Bump up FPS. No fuss, just maximum framage.", 
+  "editpath": "quest/simply-max-fps.json", 
+  "game_to_mod_version": {
+    "1.28.0_4124311467": "0.1.0"
+  }
+}

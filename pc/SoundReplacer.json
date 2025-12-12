@@ -26,5 +26,6 @@
   "desc_en": "Allows you to change different in-game sounds like hit sounds, menu music, click sounds, etc.", 
   "editpath": "pc/SoundReplacer.json", 
   "name_zh": null, 
-  "beatmods_id": 249
+  "beatmods_id": 249, 
+  "game_to_mod_version": {}
 }

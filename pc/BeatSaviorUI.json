@@ -21,5 +21,6 @@
   "desc_en": "Adds a score graph and various statistics to the level results screen.", 
   "editpath": "pc/BeatSaviorUI.json", 
   "name_zh": null, 
-  "beatmods_id": 340
+  "beatmods_id": 340, 
+  "game_to_mod_version": {}
 }

@@ -25,5 +25,6 @@
   "desc_en": "Adds a 12-hour AM/PM clock to the HUD of your game using your system's time.\n\nThis mod was imported from BeatMods, and was originally uploaded by MadSquids at 2024-07-31T14:25:58.752Z.", 
   "editpath": "pc/SimpleClock.json", 
   "name_zh": null, 
-  "beatmods_id": 329
+  "beatmods_id": 329, 
+  "game_to_mod_version": {}
 }

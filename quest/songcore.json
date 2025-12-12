@@ -3,7 +3,11 @@
   "modPage": null, 
   "name": "SongCore", 
   "game_ver": [
+    "1.35.0_8016709773", 
     "1.37.0_9064817954", 
+    "1.40.4_5283", 
+    "1.40.6_6407", 
+    "1.40.7_7060", 
     "1.40.8_7379"
   ], 
   "desc_zh": null, 
@@ -18,5 +22,13 @@
   ], 
   "desc_en": "Adds songloading, map requirement handling and related utilities to the game.", 
   "editpath": "quest/songcore.json", 
-  "name_zh": null
+  "name_zh": null, 
+  "game_to_mod_version": {
+    "1.40.8_7379": "1.1.25", 
+    "1.40.7_7060": "1.1.23", 
+    "1.40.6_6407": "1.1.22", 
+    "1.40.4_5283": "1.1.20", 
+    "1.37.0_9064817954": "1.1.16", 
+    "1.35.0_8016709773": "1.1.9"
+  }
 }

@@ -55,5 +55,6 @@
   "desc_en": "A modern, cross-platform, 2D Graphics library for .NET\n\nThis mod was imported from BeatMods, and was originally uploaded by PixelBoom at 2022-03-16T05:18:26.823Z.", 
   "editpath": "pc/ImageSharp.json", 
   "name_zh": null, 
-  "beatmods_id": 257
+  "beatmods_id": 257, 
+  "game_to_mod_version": {}
 }

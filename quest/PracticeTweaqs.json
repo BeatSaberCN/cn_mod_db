@@ -16,5 +16,9 @@
   ], 
   "desc_en": "Various improvements to the practice gamemode", 
   "editpath": "quest/PracticeTweaqs.json", 
-  "name_zh": null
+  "name_zh": null, 
+  "game_to_mod_version": {
+    "1.40.8_7379": "0.1.0", 
+    "1.37.0_9064817954": "0.1.0"
+  }
 }

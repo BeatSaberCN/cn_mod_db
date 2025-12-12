@@ -1,0 +1,24 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "Speecil Tweaks", 
+  "game_ver": [
+    "1.27.0_3631150051", 
+    "1.28.0_4124311467"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [
+    "https://github.com/speecil/SpeecilTweaks-Quest/"
+  ], 
+  "iscore": false, 
+  "authors": [
+    "Speecil"
+  ], 
+  "name_zh": null, 
+  "desc_en": "This mod brings a bunch of tweaks to the table, such as: Menu Tweaks, Gameplay Tweaks, Quality of Life Tweaks and more!", 
+  "editpath": "quest/SpeecilTweaks.json", 
+  "game_to_mod_version": {
+    "1.28.0_4124311467": "0.2.2", 
+    "1.27.0_3631150051": "0.2.1"
+  }
+}

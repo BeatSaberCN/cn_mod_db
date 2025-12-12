@@ -1,0 +1,22 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "Vent", 
+  "game_ver": [
+    "1.27.0_3631150051"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [
+    "https://github.com/IMB11/Vent/"
+  ], 
+  "iscore": false, 
+  "authors": [
+    "IMB11"
+  ], 
+  "name_zh": null, 
+  "desc_en": "I swear you just vented...", 
+  "editpath": "quest/vent.json", 
+  "game_to_mod_version": {
+    "1.27.0_3631150051": "1.0.0"
+  }
+}

@@ -29,5 +29,6 @@
   "desc_en": "A library with various tools to help safely load AssetBundles and fix legacy shader issues.", 
   "editpath": "pc/AssetBundleLoadingTools.json", 
   "name_zh": null, 
-  "beatmods_id": 306
+  "beatmods_id": 306, 
+  "game_to_mod_version": {}
 }

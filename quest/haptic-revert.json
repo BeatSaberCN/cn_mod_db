@@ -3,6 +3,7 @@
   "modPage": null, 
   "name": "Haptic Revert", 
   "game_ver": [
+    "1.35.0_8016709773", 
     "1.37.0_9064817954"
   ], 
   "desc_zh": null, 
@@ -15,5 +16,9 @@
   ], 
   "desc_en": "Reverts haptics to pre-1.35 behavior", 
   "editpath": "quest/haptic-revert.json", 
-  "name_zh": null
+  "name_zh": null, 
+  "game_to_mod_version": {
+    "1.37.0_9064817954": "0.1.0", 
+    "1.35.0_8016709773": "0.1.0"
+  }
 }

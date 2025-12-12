@@ -1,0 +1,22 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "feetsaber", 
+  "game_ver": [
+    "1.27.0_3631150051"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [
+    "https://github.com/NotHiiragi/feetsaber/"
+  ], 
+  "iscore": false, 
+  "authors": [
+    "Waffle"
+  ], 
+  "name_zh": null, 
+  "desc_en": "Phazed became bored", 
+  "editpath": "quest/feetsaber.json", 
+  "game_to_mod_version": {
+    "1.27.0_3631150051": "0.1.3"
+  }
+}

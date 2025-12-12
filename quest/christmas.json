@@ -15,5 +15,8 @@
   ], 
   "desc_en": "Turn your Beat Saber into a christmas wonderland!", 
   "editpath": "quest/christmas.json", 
-  "name_zh": null
+  "name_zh": null, 
+  "game_to_mod_version": {
+    "1.37.0_9064817954": "1.0.0"
+  }
 }

@@ -1,0 +1,26 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "SearchFixes", 
+  "game_ver": [
+    "1.27.0_3631150051", 
+    "1.28.0_4124311467"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [
+    "https://github.com/FranciscoRibeiro03/SearchFixesQuest/", 
+    "https://ko-fi.com/rui2015", 
+    "https://patreon.com/rui2015"
+  ], 
+  "iscore": false, 
+  "authors": [
+    "rui2015"
+  ], 
+  "name_zh": null, 
+  "desc_en": "An improved search algorithm for Beat Saber", 
+  "editpath": "quest/SearchFixes.json", 
+  "game_to_mod_version": {
+    "1.28.0_4124311467": "1.2.5", 
+    "1.27.0_3631150051": "1.2.4"
+  }
+}

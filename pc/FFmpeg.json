@@ -62,5 +62,6 @@
   "desc_en": "FFmpeg is the leading multimedia framework, able to decode, encode, transcode, mux, demux, stream, filter and play pretty much anything that humans and machines have created.", 
   "editpath": "pc/FFmpeg.json", 
   "name_zh": null, 
-  "beatmods_id": 196
+  "beatmods_id": 196, 
+  "game_to_mod_version": {}
 }

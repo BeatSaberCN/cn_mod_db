@@ -1,0 +1,22 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "Discord Presence", 
+  "game_ver": [
+    "1.28.0_4124311467"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [
+    "https://github.com/lixiangwuxian/Quest-Discord-Presence/"
+  ], 
+  "iscore": false, 
+  "authors": [
+    "Lauriethefish#6700, lxtend"
+  ], 
+  "name_zh": null, 
+  "desc_en": "Allows discord rich presence to see which song you're playing, the current time, and much more.", 
+  "editpath": "quest/discord-presence.json", 
+  "game_to_mod_version": {
+    "1.28.0_4124311467": "0.4.0"
+  }
+}

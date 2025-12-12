@@ -1,0 +1,22 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "NoParticles", 
+  "game_ver": [
+    "1.27.0_3631150051"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [
+    "https://github.com/kodenamekrak/NoParticles/"
+  ], 
+  "iscore": false, 
+  "authors": [
+    "AllyPallyUK, KodenameKRAK"
+  ], 
+  "name_zh": null, 
+  "desc_en": "Allows you to disable various particles throughout the game", 
+  "editpath": "quest/NoParticles.json", 
+  "game_to_mod_version": {
+    "1.27.0_3631150051": "0.1.8"
+  }
+}

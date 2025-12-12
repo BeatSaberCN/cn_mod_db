@@ -1,0 +1,22 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "StopForgettingMySettings", 
+  "game_ver": [
+    "1.27.0_3631150051", 
+    "1.28.0_4124311467"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [], 
+  "iscore": false, 
+  "authors": [
+    "Metalit"
+  ], 
+  "name_zh": null, 
+  "desc_en": "Makes the game remember override environment settings.", 
+  "editpath": "quest/settings.json", 
+  "game_to_mod_version": {
+    "1.28.0_4124311467": "0.3.2", 
+    "1.27.0_3631150051": "0.3.1"
+  }
+}

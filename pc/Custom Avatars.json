@@ -24,5 +24,6 @@
   "desc_en": "Allows the use of custom player avatars for in-game body presence.", 
   "editpath": "pc/Custom Avatars.json", 
   "name_zh": null, 
-  "beatmods_id": 9
+  "beatmods_id": 9, 
+  "game_to_mod_version": {}
 }

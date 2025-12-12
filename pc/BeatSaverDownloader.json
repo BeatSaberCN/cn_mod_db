@@ -25,5 +25,6 @@
   "desc_en": "Enables you to download songs from BeatSaver in-game.", 
   "editpath": "pc/BeatSaverDownloader.json", 
   "name_zh": null, 
-  "beatmods_id": 5
+  "beatmods_id": 5, 
+  "game_to_mod_version": {}
 }

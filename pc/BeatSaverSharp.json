@@ -42,5 +42,6 @@
   "desc_en": "Official C# Library to interact with the BeatSaver API\n\nThis mod was imported from BeatMods, and was originally uploaded by lolpants at 2019-12-28T23:01:35.248Z.", 
   "editpath": "pc/BeatSaverSharp.json", 
   "name_zh": null, 
-  "beatmods_id": 101
+  "beatmods_id": 101, 
+  "game_to_mod_version": {}
 }

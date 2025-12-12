@@ -3,6 +3,8 @@
   "modPage": null, 
   "name": "GaySabers", 
   "game_ver": [
+    "1.28.0_4124311467", 
+    "1.35.0_8016709773", 
     "1.37.0_9064817954"
   ], 
   "desc_zh": null, 
@@ -12,9 +14,15 @@
   ], 
   "iscore": false, 
   "authors": [
+    "hdgamer1404Jonas", 
     "jxnxsdev"
   ], 
   "desc_en": "Makes your sabers gay (i mean glow in rainbow colors)", 
   "editpath": "quest/gaysabers.json", 
-  "name_zh": null
+  "name_zh": null, 
+  "game_to_mod_version": {
+    "1.37.0_9064817954": "1.0.6", 
+    "1.35.0_8016709773": "1.0.3", 
+    "1.28.0_4124311467": "0.1.1"
+  }
 }

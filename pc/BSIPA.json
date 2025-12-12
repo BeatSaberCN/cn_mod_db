@@ -45,5 +45,6 @@
   "desc_en": "A mod loader for Beat Saber. Provides a number of useful tools, now including an auto-updater!", 
   "editpath": "pc/BSIPA.json", 
   "name_zh": null, 
-  "beatmods_id": 1
+  "beatmods_id": 1, 
+  "game_to_mod_version": {}
 }

@@ -3,6 +3,7 @@
   "modPage": null, 
   "name": "Chroma", 
   "game_ver": [
+    "1.28.0_4124311467", 
     "1.37.0_9064817954"
   ], 
   "desc_zh": null, 
@@ -15,5 +16,9 @@
   ], 
   "desc_en": "Colors!", 
   "editpath": "quest/chroma.json", 
-  "name_zh": null
+  "name_zh": null, 
+  "game_to_mod_version": {
+    "1.37.0_9064817954": "2.9.3", 
+    "1.28.0_4124311467": "2.8.0"
+  }
 }

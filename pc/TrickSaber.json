@@ -29,5 +29,6 @@
   "desc_en": "A mod for performing tricks like spinning and throwing your sabers", 
   "editpath": "pc/TrickSaber.json", 
   "name_zh": null, 
-  "beatmods_id": 125
+  "beatmods_id": 125, 
+  "game_to_mod_version": {}
 }

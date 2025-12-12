@@ -3,6 +3,7 @@
   "modPage": null, 
   "name": "TwitchSongReQuest", 
   "game_ver": [
+    "1.28.0_4124311467", 
     "1.37.0_9064817954"
   ], 
   "desc_zh": null, 
@@ -11,9 +12,14 @@
   ], 
   "iscore": false, 
   "authors": [
+    "hdgamer1404Jonas", 
     "jxnxsdev"
   ], 
   "desc_en": "Let your viewers suggest maps", 
   "editpath": "quest/TwitchSongReQuest.json", 
-  "name_zh": null
+  "name_zh": null, 
+  "game_to_mod_version": {
+    "1.37.0_9064817954": "0.1.15", 
+    "1.28.0_4124311467": "0.1.1"
+  }
 }

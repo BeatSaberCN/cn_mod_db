@@ -1,0 +1,20 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "Puro", 
+  "game_ver": [
+    "1.28.0_4124311467"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [], 
+  "iscore": false, 
+  "authors": [
+    "Raemien"
+  ], 
+  "name_zh": null, 
+  "desc_en": "A fluffy latex monster.", 
+  "editpath": "quest/Puro.json", 
+  "game_to_mod_version": {
+    "1.28.0_4124311467": "0.1.0"
+  }
+}

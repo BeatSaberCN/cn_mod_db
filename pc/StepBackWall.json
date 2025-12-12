@@ -25,5 +25,6 @@
   "desc_en": "Adds an option to re-enable the glorious \"Step Back\" walls again", 
   "editpath": "pc/StepBackWall.json", 
   "name_zh": null, 
-  "beatmods_id": 75
+  "beatmods_id": 75, 
+  "game_to_mod_version": {}
 }

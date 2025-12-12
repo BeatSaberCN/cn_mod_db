@@ -3,7 +3,10 @@
   "modPage": null, 
   "name": "QBeatSaberPlus-MenuMusic", 
   "game_ver": [
+    "1.28.0_4124311467", 
+    "1.35.0_8016709773", 
     "1.37.0_9064817954", 
+    "1.40.4_5283", 
     "1.40.8_7379"
   ], 
   "desc_zh": null, 
@@ -17,5 +20,12 @@
   ], 
   "desc_en": "Feel good!", 
   "editpath": "quest/qbeatsaberplus-menumusic.json", 
-  "name_zh": null
+  "name_zh": null, 
+  "game_to_mod_version": {
+    "1.40.8_7379": "6.4.1", 
+    "1.40.4_5283": "6.4.0", 
+    "1.37.0_9064817954": "6.3.2", 
+    "1.35.0_8016709773": "6.3.1", 
+    "1.28.0_4124311467": "6.2.0"
+  }
 }

@@ -3,6 +3,7 @@
   "modPage": null, 
   "name": "FingerSaber", 
   "game_ver": [
+    "1.28.0_4124311467", 
     "1.37.0_9064817954"
   ], 
   "desc_zh": null, 
@@ -15,5 +16,9 @@
   ], 
   "desc_en": "Beat Saber At Your Finger Tips. Discord @drumtool", 
   "editpath": "quest/fingersaber.json", 
-  "name_zh": null
+  "name_zh": null, 
+  "game_to_mod_version": {
+    "1.37.0_9064817954": "0.2.1", 
+    "1.28.0_4124311467": "0.1.7"
+  }
 }

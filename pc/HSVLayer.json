@@ -29,5 +29,6 @@
   "desc_en": "Allow the user to change the display layer of the score text that display when you cut a note. Useful if you want to stream/record a video and display those while having UI disabled at the same time.", 
   "editpath": "pc/HSVLayer.json", 
   "name_zh": null, 
-  "beatmods_id": 325
+  "beatmods_id": 325, 
+  "game_to_mod_version": {}
 }

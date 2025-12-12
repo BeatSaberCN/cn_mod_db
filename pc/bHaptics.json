@@ -50,5 +50,6 @@
   "desc_en": "A library to interface with the bHaptics Player and play back haptic feedback patterns in the supported gear.\n\nThis mod was imported from BeatMods, and was originally uploaded by floh-bhaptics at 2022-02-17T17:17:04.337Z.", 
   "editpath": "pc/bHaptics.json", 
   "name_zh": null, 
-  "beatmods_id": 242
+  "beatmods_id": 242, 
+  "game_to_mod_version": {}
 }

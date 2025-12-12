@@ -3,7 +3,11 @@
   "modPage": null, 
   "name": "Tracks", 
   "game_ver": [
-    "1.37.0_9064817954"
+    "1.28.0_4124311467", 
+    "1.37.0_9064817954", 
+    "1.40.4_5283", 
+    "1.40.6_6407", 
+    "1.40.7_7060"
   ], 
   "desc_zh": null, 
   "extern_links": [
@@ -15,5 +19,12 @@
   ], 
   "desc_en": "Animation for Noodle and Chroma. Requires CustomJSONData. Don't delete", 
   "editpath": "quest/tracks.json", 
-  "name_zh": null
+  "name_zh": null, 
+  "game_to_mod_version": {
+    "1.40.7_7060": "2.4.4", 
+    "1.40.6_6407": "2.4.1", 
+    "1.40.4_5283": "2.3.0", 
+    "1.37.0_9064817954": "1.0.3", 
+    "1.28.0_4124311467": "0.8.1"
+  }
 }

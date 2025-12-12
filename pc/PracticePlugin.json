@@ -20,5 +20,6 @@
   "desc_en": "Plugin for Beat Saber to control playback speed, seek through songs and set up looping sections.", 
   "editpath": "pc/PracticePlugin.json", 
   "name_zh": null, 
-  "beatmods_id": 26
+  "beatmods_id": 26, 
+  "game_to_mod_version": {}
 }

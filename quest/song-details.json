@@ -1,0 +1,25 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "SongDetails", 
+  "game_ver": [
+    "1.27.0_3631150051"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [
+    "https://github.com/RedBrumbler/SongDetails/", 
+    "https://ko-fi.com/redbrumbler", 
+    "https://patreon.com/Qosmetics", 
+    "https://www.paypal.me/redbrumblerofficial"
+  ], 
+  "iscore": false, 
+  "authors": [
+    "RedBrumbler"
+  ], 
+  "name_zh": null, 
+  "desc_en": "Library that provides details about songs from BeatSaver", 
+  "editpath": "quest/song-details.json", 
+  "game_to_mod_version": {
+    "1.27.0_3631150051": "0.1.6"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "ThinSaberUI", 
+  "game_ver": [
+    "1.28.0_4124311467"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [
+    "https://github.com/NuggoDev/ThinSaberUI/"
+  ], 
+  "iscore": false, 
+  "authors": [
+    "ThinSaberCore - Millzy, ThinSaberUI - Nuggo"
+  ], 
+  "name_zh": null, 
+  "desc_en": "A frontend for the mod, ThinSaberCore", 
+  "editpath": "quest/thinsaberui.json", 
+  "game_to_mod_version": {
+    "1.28.0_4124311467": "0.1.0"
+  }
+}

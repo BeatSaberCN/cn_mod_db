@@ -29,5 +29,6 @@
   "desc_en": "Allows you to skip intros and outros of songs that are longer than 5 seconds without any significant objects.", 
   "editpath": "pc/IntroSkip.json", 
   "name_zh": null, 
-  "beatmods_id": 335
+  "beatmods_id": 335, 
+  "game_to_mod_version": {}
 }

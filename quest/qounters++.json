@@ -16,5 +16,9 @@
   ], 
   "desc_en": "Add endlessly customizable counters to your ingame UI!", 
   "editpath": "quest/qounters++.json", 
-  "name_zh": null
+  "name_zh": null, 
+  "game_to_mod_version": {
+    "1.40.8_7379": "1.1.2", 
+    "1.37.0_9064817954": "1.0.1"
+  }
 }

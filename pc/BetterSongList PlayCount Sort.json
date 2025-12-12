@@ -28,5 +28,6 @@
   "desc_en": "Adds a \"Play Count\" sort for BetterSongList!", 
   "editpath": "pc/BetterSongList PlayCount Sort.json", 
   "name_zh": null, 
-  "beatmods_id": 336
+  "beatmods_id": 336, 
+  "game_to_mod_version": {}
 }

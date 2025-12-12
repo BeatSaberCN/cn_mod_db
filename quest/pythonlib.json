@@ -1,0 +1,22 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "PythonLib", 
+  "game_ver": [
+    "1.27.0_3631150051"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [
+    "https://github.com/darknight1050/PythonLib/"
+  ], 
+  "iscore": false, 
+  "authors": [
+    "darknight1050"
+  ], 
+  "name_zh": null, 
+  "desc_en": "Run Python at Runtime", 
+  "editpath": "quest/pythonlib.json", 
+  "game_to_mod_version": {
+    "1.27.0_3631150051": "0.3.1"
+  }
+}

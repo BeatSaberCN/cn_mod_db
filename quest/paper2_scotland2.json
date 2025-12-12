@@ -3,6 +3,9 @@
   "modPage": null, 
   "name": "Paperlog Scotland2", 
   "game_ver": [
+    "1.40.4_5283", 
+    "1.40.6_6407", 
+    "1.40.7_7060", 
     "1.40.8_7379"
   ], 
   "desc_zh": null, 
@@ -15,5 +18,11 @@
   ], 
   "desc_en": "Paperlog Bootstrapper for Scotland2 modloader", 
   "editpath": "quest/paper2_scotland2.json", 
-  "name_zh": null
+  "name_zh": null, 
+  "game_to_mod_version": {
+    "1.40.8_7379": "4.6.4", 
+    "1.40.7_7060": "4.6.4", 
+    "1.40.6_6407": "4.6.4", 
+    "1.40.4_5283": "4.6.1"
+  }
 }

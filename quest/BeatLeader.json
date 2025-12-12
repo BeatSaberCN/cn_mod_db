@@ -3,7 +3,13 @@
   "modPage": "BeatLeader", 
   "name": "BeatLeader", 
   "game_ver": [
+    "1.27.0_3631150051", 
+    "1.28.0_4124311467", 
+    "1.35.0_8016709773", 
     "1.37.0_9064817954", 
+    "1.40.4_5283", 
+    "1.40.6_6407", 
+    "1.40.7_7060", 
     "1.40.8_7379"
   ], 
   "desc_zh": "<a href='https://beatleader.com'>beatleader.com</a> | 自制谱面/OST排行榜 | 录制回放 | 战队、赛事、歌单等等", 
@@ -17,5 +23,15 @@
   ], 
   "desc_en": "beatleader.com | In-game leaderboards for custom and OST maps | Score replays | Clans, events, playlists and much more", 
   "editpath": "quest/BeatLeader.json", 
-  "name_zh": null
+  "name_zh": null, 
+  "game_to_mod_version": {
+    "1.40.8_7379": "0.8.73", 
+    "1.40.7_7060": "0.8.72", 
+    "1.40.6_6407": "0.8.71", 
+    "1.40.4_5283": "0.8.70", 
+    "1.37.0_9064817954": "0.8.64", 
+    "1.35.0_8016709773": "0.8.3", 
+    "1.28.0_4124311467": "0.8.1", 
+    "1.27.0_3631150051": "0.5.9"
+  }
 }

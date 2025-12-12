@@ -27,5 +27,6 @@
   "desc_en": "Stopgap plugin that clarifies why leaderboards on custom songs are not supported.", 
   "editpath": "pc/WhyIsThereNoLeaderboard.json", 
   "name_zh": null, 
-  "beatmods_id": 280
+  "beatmods_id": 280, 
+  "game_to_mod_version": {}
 }

@@ -24,5 +24,6 @@
   "desc_en": "Volume manager with some extra specifics.\r\n\r\nSettings for the mod are located in the Mod Settings menu within the normal Settings menu.", 
   "editpath": "pc/VerboseVolume.json", 
   "name_zh": null, 
-  "beatmods_id": 375
+  "beatmods_id": 375, 
+  "game_to_mod_version": {}
 }

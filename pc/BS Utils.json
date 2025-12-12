@@ -26,5 +26,6 @@
   "desc_en": "A basic library for mods to use for common functionality.", 
   "editpath": "pc/BS Utils.json", 
   "name_zh": null, 
-  "beatmods_id": 22
+  "beatmods_id": 22, 
+  "game_to_mod_version": {}
 }

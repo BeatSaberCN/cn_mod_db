@@ -28,5 +28,6 @@
   "desc_en": "Hides the Beat Saber logo in the menu environments", 
   "editpath": "pc/HideTheLogo.json", 
   "name_zh": null, 
-  "beatmods_id": 369
+  "beatmods_id": 369, 
+  "game_to_mod_version": {}
 }

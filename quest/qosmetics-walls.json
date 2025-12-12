@@ -3,6 +3,9 @@
   "modPage": null, 
   "name": "Qosmetics Boxes", 
   "game_ver": [
+    "1.27.0_3631150051", 
+    "1.28.0_4124311467", 
+    "1.35.0_8016709773", 
     "1.37.0_9064817954"
   ], 
   "desc_zh": null, 
@@ -18,5 +21,11 @@
   ], 
   "desc_en": "Qosmetics module that adds Box capabilities", 
   "editpath": "quest/qosmetics-walls.json", 
-  "name_zh": null
+  "name_zh": null, 
+  "game_to_mod_version": {
+    "1.37.0_9064817954": "0.2.1", 
+    "1.35.0_8016709773": "0.2.0", 
+    "1.28.0_4124311467": "0.1.4", 
+    "1.27.0_3631150051": "0.1.3"
+  }
 }

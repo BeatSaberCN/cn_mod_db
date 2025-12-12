@@ -1,0 +1,22 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "SafeStorage", 
+  "game_ver": [
+    "1.28.0_4124311467"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [
+    "https://github.com/jxnxsdev/SafeStorage/"
+  ], 
+  "iscore": false, 
+  "authors": [
+    "hdgamer1404Jonas"
+  ], 
+  "name_zh": null, 
+  "desc_en": "Allows for safe storage and encryption of strings to prevent users from accidentally doxxing themselfs", 
+  "editpath": "quest/safestorage.json", 
+  "game_to_mod_version": {
+    "1.28.0_4124311467": "1.0.0"
+  }
+}

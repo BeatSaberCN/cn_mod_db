@@ -27,5 +27,6 @@
   "desc_en": "Load, create, edit and download songs of playlists in Beat Saber.", 
   "editpath": "pc/PlaylistManager.json", 
   "name_zh": null, 
-  "beatmods_id": 170
+  "beatmods_id": 170, 
+  "game_to_mod_version": {}
 }

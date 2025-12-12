@@ -24,5 +24,6 @@
   "desc_en": "Adds community translations for both base game content and supported mods.", 
   "editpath": "pc/SiraLocalizer.json", 
   "name_zh": null, 
-  "beatmods_id": 150
+  "beatmods_id": 150, 
+  "game_to_mod_version": {}
 }

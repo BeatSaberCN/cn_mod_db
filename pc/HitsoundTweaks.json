@@ -21,5 +21,6 @@
   "desc_en": "Adds more configurability to hitsounds, and fixes several base game bugs to make them more reliable and consistent.", 
   "editpath": "pc/HitsoundTweaks.json", 
   "name_zh": null, 
-  "beatmods_id": 272
+  "beatmods_id": 272, 
+  "game_to_mod_version": {}
 }

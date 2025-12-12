@@ -25,5 +25,6 @@
   "desc_en": "Beat Saber's largest leaderboard system for custom songs. Earn PP from ranked maps, compare scores with others and watch replays.", 
   "editpath": "pc/ScoreSaber.json", 
   "name_zh": null, 
-  "beatmods_id": 281
+  "beatmods_id": 281, 
+  "game_to_mod_version": {}
 }

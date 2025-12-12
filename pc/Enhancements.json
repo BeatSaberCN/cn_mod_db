@@ -26,5 +26,6 @@
   "desc_en": "# Enhancements\n**Features**\n- Configurable clock\n- Timers with notification\n- Breaktime notification during gameplay\n- Specific volume configuration\n- Pause menu temporary button lock", 
   "editpath": "pc/Enhancements.json", 
   "name_zh": null, 
-  "beatmods_id": 93
+  "beatmods_id": 93, 
+  "game_to_mod_version": {}
 }

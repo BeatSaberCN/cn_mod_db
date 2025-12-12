@@ -25,5 +25,6 @@
   "desc_en": "Search and download songs with a lot of filtering and sorting options and without frustration!", 
   "editpath": "pc/BetterSongSearch.json", 
   "name_zh": null, 
-  "beatmods_id": 225
+  "beatmods_id": 225, 
+  "game_to_mod_version": {}
 }

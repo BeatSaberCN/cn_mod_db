@@ -1,0 +1,22 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "No Play Beat Saber", 
+  "game_ver": [
+    "1.28.0_4124311467"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [
+    "https://github.com/kiaratheeanalyst/No-Play-Beat-Saber/"
+  ], 
+  "iscore": false, 
+  "authors": [
+    "Kaylerr"
+  ], 
+  "name_zh": null, 
+  "desc_en": "This literally does not allow you to play beat saber. Why do you even want this?", 
+  "editpath": "quest/noplaybeatsaber.json", 
+  "game_to_mod_version": {
+    "1.28.0_4124311467": "11.0.0"
+  }
+}

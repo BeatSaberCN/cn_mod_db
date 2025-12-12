@@ -15,5 +15,8 @@
   ], 
   "desc_en": "Customise the Beat Saber menu", 
   "editpath": "quest/qustommenu.json", 
-  "name_zh": null
+  "name_zh": null, 
+  "game_to_mod_version": {
+    "1.37.0_9064817954": "1.0.1"
+  }
 }

@@ -1,0 +1,24 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "Qounters-", 
+  "game_ver": [
+    "1.27.0_3631150051", 
+    "1.28.0_4124311467"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [
+    "https://github.com/Metalit/bsq-qounters-minus/"
+  ], 
+  "iscore": false, 
+  "authors": [
+    "Metalit, danrouse"
+  ], 
+  "name_zh": null, 
+  "desc_en": "Store brand version of Counters+ for the Quest version of Beat Saber. Adds a variety of configurable Qounters to display statistics in-game.", 
+  "editpath": "quest/qounters-minus.json", 
+  "game_to_mod_version": {
+    "1.28.0_4124311467": "1.2.3", 
+    "1.27.0_3631150051": "1.2.2"
+  }
+}

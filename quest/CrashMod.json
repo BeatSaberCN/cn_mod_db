@@ -1,0 +1,24 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "Crash Mod", 
+  "game_ver": [
+    "1.27.0_3631150051", 
+    "1.28.0_4124311467"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [
+    "https://github.com/ComputerElite/CrashMod/"
+  ], 
+  "iscore": false, 
+  "authors": [
+    "ComputerElite"
+  ], 
+  "name_zh": null, 
+  "desc_en": "Crash your game if you are bad and good\nFeatures:\n- Crash your mod via various triggers. e. g. Crash on Play, Miss, Good cut, Turn and way more", 
+  "editpath": "quest/CrashMod.json", 
+  "game_to_mod_version": {
+    "1.28.0_4124311467": "0.12.0", 
+    "1.27.0_3631150051": "0.11.0"
+  }
+}

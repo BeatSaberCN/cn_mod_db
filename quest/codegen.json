@@ -1,0 +1,24 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "codegen", 
+  "game_ver": [
+    "1.27.0_3631150051", 
+    "1.28.0_4124311467"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [
+    "https://github.com/sc2ad/BeatSaber-Quest-Codegen/"
+  ], 
+  "iscore": true, 
+  "authors": [
+    "Sc2ad"
+  ], 
+  "name_zh": null, 
+  "desc_en": "A core library used by almost every mod. DO NOT ATTEMPT TO UNINSTALL IT!", 
+  "editpath": "quest/codegen.json", 
+  "game_to_mod_version": {
+    "1.28.0_4124311467": "0.33.1", 
+    "1.27.0_3631150051": "0.32.0"
+  }
+}

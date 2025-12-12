@@ -1,0 +1,22 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "TooManyTweaks", 
+  "game_ver": [
+    "1.27.0_3631150051"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [
+    "https://github.com/IMB11/TooManyTweaks/"
+  ], 
+  "iscore": false, 
+  "authors": [
+    "IMB11"
+  ], 
+  "name_zh": null, 
+  "desc_en": "Adds many togglable tweaks and options to tailor the game to your desire.", 
+  "editpath": "quest/toomanytweaks.json", 
+  "game_to_mod_version": {
+    "1.27.0_3631150051": "0.3.1"
+  }
+}

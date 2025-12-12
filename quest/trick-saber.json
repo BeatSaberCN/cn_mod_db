@@ -1,0 +1,28 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "Trick Saber", 
+  "game_ver": [
+    "1.27.0_3631150051", 
+    "1.28.0_4124311467"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [
+    "https://github.com/NuggoDEV/TrickSaber-1.28.0/", 
+    "https://github.com/RedBrumbler/TrickSaber/", 
+    "https://ko-fi.com/redbrumbler", 
+    "https://patreon.com/Qosmetics", 
+    "https://www.paypal.me/redbrumblerofficial"
+  ], 
+  "iscore": false, 
+  "authors": [
+    "RedBrumbler"
+  ], 
+  "name_zh": null, 
+  "desc_en": "Mod that lets you throw and spin your sabers every which way you want!", 
+  "editpath": "quest/trick-saber.json", 
+  "game_to_mod_version": {
+    "1.28.0_4124311467": "0.0.1", 
+    "1.27.0_3631150051": "0.1.1"
+  }
+}

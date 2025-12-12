@@ -15,5 +15,8 @@
   ], 
   "desc_en": "Allows you to play endlessly, or at least until you fail.", 
   "editpath": "quest/endless.json", 
-  "name_zh": null
+  "name_zh": null, 
+  "game_to_mod_version": {
+    "1.37.0_9064817954": "0.2.0"
+  }
 }

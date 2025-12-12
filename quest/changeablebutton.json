@@ -15,5 +15,8 @@
   ], 
   "desc_en": "Changes the text of the button", 
   "editpath": "quest/changeablebutton.json", 
-  "name_zh": null
+  "name_zh": null, 
+  "game_to_mod_version": {
+    "1.37.0_9064817954": "0.1.0"
+  }
 }

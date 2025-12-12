@@ -29,5 +29,6 @@
   "desc_en": "A plugin for custom walls in Beat Saber", 
   "editpath": "pc/CustomWalls.json", 
   "name_zh": null, 
-  "beatmods_id": 110
+  "beatmods_id": 110, 
+  "game_to_mod_version": {}
 }

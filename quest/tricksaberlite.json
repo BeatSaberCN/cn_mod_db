@@ -1,0 +1,22 @@
+{
+  "platform": "quest", 
+  "modPage": null, 
+  "name": "TrickSaber Lite", 
+  "game_ver": [
+    "1.40.6_6407"
+  ], 
+  "desc_zh": null, 
+  "extern_links": [
+    "https://github.com/vcmikuu/TrickSaber-Lite/"
+  ], 
+  "iscore": false, 
+  "authors": [
+    "laynia"
+  ], 
+  "name_zh": null, 
+  "desc_en": "This mod is not that stable like it seems, improvements will be rolling out soon!\nPerform spins and throws with your sabers!", 
+  "editpath": "quest/tricksaberlite.json", 
+  "game_to_mod_version": {
+    "1.40.6_6407": "0.1.0"
+  }
+}

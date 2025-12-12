@@ -24,5 +24,6 @@
   "desc_en": "Intuitive controller offset adjustment tool. Includes swing benchmark for config and grip analysis. Not compatible with SaberTailor", 
   "editpath": "pc/EasyOffset.json", 
   "name_zh": null, 
-  "beatmods_id": 236
+  "beatmods_id": 236, 
+  "game_to_mod_version": {}
 }
