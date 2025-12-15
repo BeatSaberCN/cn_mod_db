@@ -9,7 +9,7 @@
     "1.40.7_7060", 
     "1.40.8_7379"
   ], 
-  "desc_zh": null, 
+  "desc_zh": "任意文本", 
   "extern_links": [
     "https://github.com/CatsaCode/AnyText/"
   ], 
@@ -19,7 +19,7 @@
   ], 
   "desc_en": "Change any text in the game", 
   "editpath": "quest/anytext.json", 
-  "name_zh": null, 
+  "name_zh": "修改游戏内的任意文本", 
   "game_to_mod_version": {
     "1.40.8_7379": "1.0.1", 
     "1.40.7_7060": "1.0.1", 

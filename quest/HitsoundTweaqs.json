@@ -7,7 +7,7 @@
     "1.40.7_7060", 
     "1.40.8_7379"
   ], 
-  "desc_zh": null, 
+  "desc_zh": "增加更多打击音效的设置选项，还修复了一些游戏bug", 
   "extern_links": [
     "https://github.com/NSGolova/HitsoundTweaqs/"
   ], 

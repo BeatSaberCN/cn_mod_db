@@ -11,7 +11,7 @@
     "1.40.7_7060", 
     "1.40.8_7379"
   ], 
-  "desc_zh": null, 
+  "desc_zh": "为节奏光剑的多人游戏引入自制谱面支持", 
   "extern_links": [
     "https://github.com/EnderdracheLP/MultiplayerCore.Quest/", 
     "https://github.com/sponsors/Michael-R-ELP", 

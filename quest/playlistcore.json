@@ -12,7 +12,7 @@
     "1.40.7_7060", 
     "1.40.8_7379"
   ], 
-  "desc_zh": null, 
+  "desc_zh": "加载歌单，并为其它模组提供大量功能支持。", 
   "extern_links": [
     "https://github.com/Metalit/PlaylistCore/"
   ], 

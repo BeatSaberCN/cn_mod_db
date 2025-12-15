@@ -9,7 +9,7 @@
     "1.40.7_7060", 
     "1.40.8_7379"
   ], 
-  "desc_zh": null, 
+  "desc_zh": "扩展歌曲的艺术图像，使其覆盖整个关卡选择的右半边", 
   "extern_links": [
     "https://github.com/vcmikuu/ImageCoverExpander/"
   ], 

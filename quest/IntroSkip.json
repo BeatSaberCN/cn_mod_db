@@ -9,7 +9,7 @@
     "1.40.7_7060", 
     "1.40.8_7379"
   ], 
-  "desc_zh": null, 
+  "desc_zh": "跳过谱面的起始和结束部分", 
   "extern_links": [
     "https://github.com/Royston1999/IntroSkip-Quest/"
   ], 

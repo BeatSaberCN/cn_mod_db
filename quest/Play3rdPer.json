@@ -9,7 +9,7 @@
     "1.40.7_7060", 
     "1.40.8_7379"
   ], 
-  "desc_zh": null, 
+  "desc_zh": "用第三人称玩游戏！", 
   "extern_links": [
     "https://github.com/ComputerElite/play3rdper/", 
     "https://github.com/Epic17plyz/3rd-Person-Mod/"
@@ -20,7 +20,7 @@
   ], 
   "desc_en": "Play in 3rd Person!", 
   "editpath": "quest/Play3rdPer.json", 
-  "name_zh": null, 
+  "name_zh": "第三人称模组", 
   "game_to_mod_version": {
     "1.40.8_7379": "0.14.8", 
     "1.40.7_7060": "0.14.0", 

@@ -10,7 +10,7 @@
     "1.40.7_7060", 
     "1.40.8_7379"
   ], 
-  "desc_zh": null, 
+  "desc_zh": "谱面加载、谱面依赖处理和游戏相关工具", 
   "extern_links": [
     "https://github.com/raineaeternal/Quest-SongCore/", 
     "https://github.com/sponsors/raineio", 

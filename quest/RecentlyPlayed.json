@@ -10,7 +10,7 @@
     "1.40.7_7060", 
     "1.40.8_7379"
   ], 
-  "desc_zh": null, 
+  "desc_zh": "增加一个历史选项卡，显示了最近游玩的谱面", 
   "extern_links": [
     "https://github.com/Tatenshi/RecentlyPlayed/"
   ], 

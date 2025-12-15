@@ -12,7 +12,7 @@
     "1.40.7_7060", 
     "1.40.8_7379"
   ], 
-  "desc_zh": null, 
+  "desc_zh": "用过滤/排序来轻松搜索、下载歌曲。", 
   "extern_links": [
     "https://github.com/bsq-ports/BetterSongSearchQuest/", 
     "https://ko-fi.com/FrozenAlex"

@@ -12,7 +12,7 @@
     "1.40.7_7060", 
     "1.40.8_7379"
   ], 
-  "desc_zh": null, 
+  "desc_zh": "游戏内显示时间。还能显示电量百分比。", 
   "extern_links": [
     "https://github.com/EnderdracheLP/ClockMod/", 
     "https://github.com/sponsors/Michael-R-ELP", 

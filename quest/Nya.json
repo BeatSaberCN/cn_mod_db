@@ -12,7 +12,7 @@
     "1.40.7_7060", 
     "1.40.8_7379"
   ], 
-  "desc_zh": null, 
+  "desc_zh": "显示猫猫图片，这些图片来自各种动漫主题的网络API。", 
   "extern_links": [
     "https://github.com/FrozenAlex/Nya-quest/", 
     "https://ko-fi.com/FrozenAlex"

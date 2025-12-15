@@ -1,6 +1,6 @@
 {
   "platform": "quest", 
-  "modPage": null, 
+  "modPage": "防眩晕", 
   "name": "AntiVertigo", 
   "game_ver": [
     "1.27.0_3631150051", 
@@ -9,7 +9,7 @@
     "1.40.6_6407", 
     "1.40.8_7379"
   ], 
-  "desc_zh": null, 
+  "desc_zh": "生成一个很大的底部平台，这样晕3D的人就能更舒服点。", 
   "extern_links": [
     "https://github.com/FrozenAlex/AntiVertigo/", 
     "https://github.com/RedBrumbler/AntiVertigo/", 
